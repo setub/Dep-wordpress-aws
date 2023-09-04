@@ -1,0 +1,5 @@
+aws-region = "us-east-1"
+#aws-profile = "terraform-user"
+database_name = "nkapdatabase"
+database_password = "stage123"
+database_username = "setubi"
